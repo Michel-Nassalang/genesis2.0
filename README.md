@@ -1,6 +1,7 @@
 # genesis
 
-A new Flutter project.
+Application de tchat avec les fonctionnalités envoie de message, reception de message instaantané, envoie d'image, envoi d'audio, envoi de documents.
+Nous pouvons mettre à jour aussi notre profil et changer d'image de profil ....
 
 ## Getting Started
 
